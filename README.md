@@ -2,7 +2,7 @@
 
 A second-hand marketplace platform exclusively designed for the students and community of **Chittagong University of Engineering & Technology (CUET)**. ReUseHub enables students to buy, sell, and exchange used items within a trusted campus environment.
 
-> 🎓 **Academic Project** — Database Management System (DBMS) | Level-2, Term-II  
+> 🎓 **Academic Project** - Database Management System (DBMS) | Level-2, Term-II  
 > 📍 Department of Computer Science & Engineering, CUET
 
 ---

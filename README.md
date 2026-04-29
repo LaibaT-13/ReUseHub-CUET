@@ -223,11 +223,14 @@ The app will open at `http://localhost:5173`
 
 ## 👩‍💻 Contributors
 
-This project was developed as part of the **Database Management System** course at CUET (Level-2, Term-II).
+This project was developed as part of the **Database Management System (CSE-252)** course at CUET (Level-2, Term-II, Session: 2022-2023), under the supervision of **Sabiha Anan**, Assistant Professor, Department of CSE.
 
-| Name | Role |
-|---|---|
-| Laiba Tabassum | Full Stack Development |
+| Name | Student ID | Role |
+|---|---|---|
+| Sajnin Akter | 2204070 | Backend Development, Database Design & Queries |
+| Debirupa Dutta | 2204071 | Backend Development, Database Design & Queries |
+| Laiba Tabassum | 2204077 | Frontend Development, UI/UX Design |
+| Tahrima Jahan | 2204078 | Frontend Development, UI/UX Design |
 
 ---
 
